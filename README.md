@@ -3,7 +3,9 @@
 SHASHTRA is a fully functional Learning Management System (LMS) designed to help students grow and learn together. The platform is built with modern web technologies to deliver a seamless and interactive educational experience.
 
 
-https://github.com/rakeshsoniiii/Shashstra.lms/blob/main/Screenshot%20(184).png?raw=true
+![image alt](https://github.com/rakeshsoniiii/Shashstra.lms/blob/main/Screenshot%20(184).png?raw=true
+)
+
 
 
 
