@@ -23,6 +23,8 @@ SHASHTRA is a fully functional Learning Management System (LMS) designed to help
 * **Assessments**: Engage in quizzes and contests to test your knowledge.
 * **Testimonials**: Read feedback from students who have benefited from the courses.
 
+![image alt](https://github.com/rakeshsoniiii/Shashstra.lms/blob/main/SHASHTRA%20icon.jpg?raw=true)
+
 ## Available Courses
 
 * Mobile App Development (Flutter/React Native)
