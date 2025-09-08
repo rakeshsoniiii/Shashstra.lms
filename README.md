@@ -2,6 +2,9 @@
 
 SHASHTRA is a fully functional Learning Management System (LMS) designed to help students grow and learn together. The platform is built with modern web technologies to deliver a seamless and interactive educational experience.
 
+
+
+
 ## Tech Stack
 
 * **Frontend**: React
