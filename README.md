@@ -6,7 +6,7 @@ SHASHTRA is a fully functional Learning Management System (LMS) designed to help
 ![image alt](https://github.com/rakeshsoniiii/Shashstra.lms/blob/main/Screenshot%20(184).png?raw=true
 )
 
-
+-----
 
 
 ## Tech Stack
