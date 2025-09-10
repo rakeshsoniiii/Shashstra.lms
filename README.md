@@ -15,7 +15,7 @@ SHASHTRA is a fully functional Learning Management System (LMS) designed to help
 * **Backend**: Node.js
 * **Styling**: Tailwind CSS
 * **Payments**: Razorpay
-
+----
 ## Key Features
 
 * **Course Catalog**: Browse and enroll in a variety of academic programs.
